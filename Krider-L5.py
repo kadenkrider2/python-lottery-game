@@ -2,8 +2,6 @@
 
 NAME: KADEN KRIDER
 
-ASN: L5
-
 DESC: This python module reads at 3 digit number from the user and compares the numbers to computer generated number
 
 DATE: November 25, 2022
